@@ -101,6 +101,26 @@
 
 <td align="center" width="96">
   <a href="#mohamed-tech">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+         width="48"
+         height="48"
+         alt="ADO.NET" />
+  </a>
+  <br>ADO.NET
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg"
+         width="48"
+         height="48"
+         alt="Entity Framework Core" />
+  </a>
+  <br>EF Core
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   </a>
   <br>Git
@@ -154,12 +174,12 @@
 
 <td align="center" width="96">
   <a href="#mohamed-tech">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
          width="48"
          height="48"
-         alt="Cisco" />
+         alt="REST API" />
   </a>
-  <br>Cisco
+  <br>REST API
 </td>
 
 <td align="center" width="96">
@@ -244,6 +264,16 @@
          alt="PowerShell" />
   </a>
   <br>Trminal
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+         width="48"
+         height="48"
+         alt="T-SQL" />
+  </a>
+  <br>T-SQL
 </td>
 
   </tr>
