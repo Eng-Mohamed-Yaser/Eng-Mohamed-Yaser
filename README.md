@@ -184,12 +184,62 @@
 
 <td align="center" width="96">
   <a href="#mohamed-tech">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg"
+    <img src="https://jwt.io/img/pic_logo.svg"
          width="48"
          height="48"
-         alt="OAuth2" />
+         alt="JWT" />
   </a>
-  <br>OAuth2
+  <br>JWT
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         width="48"
+         height="48"
+         alt="CSS3" />
+  </a>
+  <br>CSS3
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         width="48"
+         height="48"
+         alt="JavaScript" />
+  </a>
+  <br>JavaScript
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+         width="48"
+         height="48"
+         alt="Bootstrap" />
+  </a>
+  <br>Bootstrap
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://cdn.simpleicons.org/socketdotio"
+         width="48"
+         height="48"
+         alt="Real-Time Communication" />
+  </a>
+  <br>Real-Time
+</td>
+
+<td align="center" width="96">
+  <a href="#mohamed-tech">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+         width="48"
+         height="48"
+         alt="Terminal" />
+  </a>
+  <br>Terminal
 </td>
 
   </tr>
