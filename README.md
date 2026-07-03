@@ -182,14 +182,18 @@
   <br>JWT
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="96">
   <a href="#mohamed-tech">
-    <img src="https://jwt.io/img/pic_logo.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
          width="48"
          height="48"
-         alt="JWT" />
+         alt="HTML5" />
   </a>
-  <br>JWT
+  <br>HTML5
 </td>
 
 <td align="center" width="96">
@@ -234,12 +238,12 @@
 
 <td align="center" width="96">
   <a href="#mohamed-tech">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"
          width="48"
          height="48"
-         alt="Terminal" />
+         alt="PowerShell" />
   </a>
-  <br>Terminal
+  <br>PowerShell
 </td>
 
   </tr>
