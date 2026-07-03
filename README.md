@@ -1,3 +1,17 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=ASP.NET%20Engineer%20%7C%20Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=65"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Backend+Developer;ASP.NET+Core+Engineer;API+Security+Learner;SignalR+Real-Time+Applications;Cybersecurity+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
+
 <h1 align="left" id="mohamed-title">👋 Hello there! I'm Mohamed Yasser</h1>
 <h3 align="left">Backend Developer | ASP.NET Engineer | Cybersecurity Enthusiast</h3>
 
@@ -24,7 +38,10 @@
 </p>
 
 <a href="#mohamed-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Yaser&show_icons=true&theme=transparent&hide_border=true" align="right" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Yaser&show_icons=true&theme=transparent&hide_border=true"
+    align="right"
+  />
 </a>
 
 * 🎓 I'm an **IT Student** at the Egyptian German Technological College, Assiut.
@@ -189,36 +206,3 @@ SignalR                   ███████████████░░░
 API Security              ██████████████░░░░░ 70%
 Docker                    ███████████░░░░░░░░ 55%
 Microservices             ████████░░░░░░░░░░░ 40%
-```
-
-<h2 align="left">GitHub Analytics</h2>
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Yaser&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mohamed-Yaser&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Eng-Mohamed-Yaser&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Eng-Mohamed-Yaser&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<h2 align="left">Let's Connect</h2>
-
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* 📧 Email: YOUR_EMAIL
-* 🌍 GitHub: https://github.com/Eng-Mohamed-Yaser
-
----
-
-<p align="center">
-  <i>“Building secure, scalable, and reliable backend systems.”</i>
-</p>
