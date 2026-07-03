@@ -184,7 +184,7 @@
 
 <td align="center" width="96">
   <a href="#mohamed-tech">
-    <img src="https://www.vectorlogo.zone/logos/signalr/signalr-icon.svg"
+    <img src="https://cdn.simpleicons.org/dotnet"
          width="48"
          height="48"
          alt="SignalR" />
@@ -253,7 +253,7 @@
          height="48"
          alt="Real-Time Communication" />
   </a>
-  <br>Real-Time Apps
+  <br>Real-Time 
 </td>
 
 <td align="center" width="96">
