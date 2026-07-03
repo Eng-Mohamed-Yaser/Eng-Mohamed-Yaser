@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="left" id="mohamed-title">👋 Hello there! I'm Mohamed Yasser</h1>
-<h3 align="left">Backend Developer | ASP.NET Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="left">Backend Developer | FrontEnd Develper | ASP.NET Engineer </h3>
 
 <p align="left">
   <a href="https://github.com/Eng-Mohamed-Yaser">
@@ -24,7 +24,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github">
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
 
