@@ -253,7 +253,7 @@
          height="48"
          alt="Real-Time Communication" />
   </a>
-  <br>Real-Time
+  <br>Real-Time Apps
 </td>
 
 <td align="center" width="96">
@@ -263,7 +263,7 @@
          height="48"
          alt="PowerShell" />
   </a>
-  <br>Trminal
+  <br>Terminal
 </td>
 
 <td align="center" width="96">
