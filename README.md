@@ -243,7 +243,7 @@
          height="48"
          alt="PowerShell" />
   </a>
-  <br>PowerShell
+  <br>Trminal
 </td>
 
   </tr>
