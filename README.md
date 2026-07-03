@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Backend+Developer;ASP.NET+Core+Engineer;API+Security+Learner;SignalR+Real-Time+Applications;Cybersecurity+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Backend+Developer;ASP.NET+Core+Engineer;API+Security+Learner;SignalR+Real-Time+Applications;API+Building"
     alt="Typing SVG"
   />
 </p>
