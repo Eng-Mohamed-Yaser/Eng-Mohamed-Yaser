@@ -1,19 +1,19 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=ASP.NET%20Engineer%20%7C%20Backend%20Developer%20%7C%20ِAPI%20Building&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=ASP.NET%20Engineer%20%7C%20Backend%20Developer%20%7C%20API%20Architect&descAlignY=65"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Backend+Developer;ASP.NET+Core+Engineer;API+Security+Learner;SignalR+Real-Time+Applications;API+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=ASP.NET+Core+Engineer;Backend+Developer;Building+Secure+REST+APIs;SignalR+Real-Time+Applications;Scalable+Backend+Systems"
     alt="Typing SVG"
   />
 </p>
 
 <h1 align="left" id="mohamed-title">👋 Hello there! I'm Mohamed Yasser</h1>
-<h3 align="left">Backend Developer | FrontEnd Develper | ASP.NET Engineer </h3>
+<h3 align="left">Backend Developer | FrontEnd Develper | ASP.NET Core | Building REST APIs </h3>
 
 <p align="left">
   <a href="https://github.com/Eng-Mohamed-Yaser">
@@ -82,12 +82,6 @@
   <br>ASP.NET
 </td>
 
-<td align="center" width="96">
-  <a href="#mohamed-tech">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  </a>
-  <br>MySQL
-</td>
 
 <td align="center" width="96">
   <a href="#mohamed-tech">
