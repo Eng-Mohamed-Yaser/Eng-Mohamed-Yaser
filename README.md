@@ -218,6 +218,37 @@
   </tr> 
 </table>
 <br>
+<!--========================== TESTING ========================== -->
+<h2>Testing & Quality</h2>
+
+<p>
+  <i>Writing reliable, maintainable, and testable software.</i>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img
+        src="https://api.nuget.org/v3-flatcontainer/nunit/4.0.0/icon"
+        width="50"
+        height="50"
+        alt="NUnit"
+      />
+      <br><strong>NUnit</strong>
+    </td>
+    <td align="center" width="130">
+      <img
+        src="https://cdn.simpleicons.org/dotnet"
+        width="50"
+        height="50"
+        alt=".NET"
+      />
+      <br>
+      <strong>Unit Testing</strong>
+    </td>
+  </tr>
+</table>
+
 
 <!-- ========================= SECURITY ========================= -->
 <h2>Security & Real-Time</h2>
