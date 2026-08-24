@@ -163,10 +163,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
       <br><strong>MongoDB</strong>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt="Entity Framework Core" />
-      <br><strong>EF Core</strong>
-    </td>
+<td align="center" width="110">
+    <img
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/entityframeworkcore/default.svg"
+      width="50"
+      height="50"
+      alt="Entity Framework Core"
+    />
+  <br><strong>EF Core</strong>
+</td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt="ADO.NET" />
       <br><strong>ADO.NET</strong>
