@@ -180,7 +180,17 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="T-SQL" />
       <br><strong>T-SQL</strong>
     </td>
-  </tr> 
+    <td align="center" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sqlite/default.svg"
+        width="50"
+        height="50"
+        alt="SQLite"
+      />
+    <br>
+    <strong>SQLite</strong>
+  </td>
+  </tr>
 </table>
 <br>
 
