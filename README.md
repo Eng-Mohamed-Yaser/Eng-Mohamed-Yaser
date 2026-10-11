@@ -1,6 +1,6 @@
 <!-- ========================= HERO ========================= -->
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=65" width="100%" alt="Hero Background" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=65" width="100%" alt="Hero Background" /> a
 </p> 
 
 <p align="center"> 
@@ -73,6 +73,17 @@
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" alt="Tailwind CSS" />
       <br><strong>Tailwind CSS</strong>
     </td>
+<td align="center" width="110">
+  <a href="https://react.dev/">
+    <img
+      src="https://cdn.simpleicons.org/react/61DAFB"
+      width="50"
+      height="50"
+      alt="React"
+    />
+  </a>
+  <br><strong>React</strong>
+</td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
       <br><strong>Angular</strong>
