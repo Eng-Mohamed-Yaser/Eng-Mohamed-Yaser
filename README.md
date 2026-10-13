@@ -10,39 +10,56 @@
 
 <!-- ========================= PROFILE ========================= -->
 <h2 align="center">👋 Hello, I'm Mohamed Yasser</h2>
-<p align="center"> 
-  <strong>ASP.NET Core Engineer • Backend Developer • MEAN Stack Developer</strong> 
+
+<p align="center">
+  <strong>Full-Stack Developer | .NET & MEAN Stack | ASP.NET Core | Angular</strong>
 </p>
-<p align="center"> 
-  <a href="https://github.com/Eng-Mohamed-Yaser"> 
-    <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Yaser&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" /> 
+
+<p align="center">
+  <a href="https://github.com/Eng-Mohamed-Yaser">
+    <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Yaser&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Eng-Mohamed-Yaser?tab=followers"> 
-    <img src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github&label=Followers" alt="GitHub Followers" /> 
+  <a href="https://github.com/Eng-Mohamed-Yaser?tab=followers">
+    <img src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/"> 
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.net&logoColor=white" alt="ASP.NET Core" /> 
-  </a> 
 </p>
-<br>
+
 
 <!-- ========================= ABOUT ========================= -->
 <h2>About Me</h2>
-<p> I'm an <strong>IT Student</strong> at the Egyptian German Technological College, focused on developing modern, secure, and scalable web applications. </p>
-<p> My main specialization is <strong>ASP.NET Core backend development</strong>, while I'm also expanding my full-stack development skills through the <strong>MEAN Stack</strong>. </p>
-<ul> 
-  <li>Building RESTful APIs with <strong>ASP.NET Core</strong>.</li> 
-  <li>Developing real-time applications using <strong>SignalR</strong>.</li> 
-  <li>Working with <strong>SQL Server, T-SQL, EF Core, and ADO.NET</strong>.</li> 
-  <li>Developing applications with <strong>MongoDB, Express.js, Angular, and Node.js</strong>.</li> 
-  <li>Building interfaces using <strong>HTML, CSS, JavaScript, TypeScript, Bootstrap, and Tailwind CSS</strong>.</li> 
-  <li>Learning <strong>JWT, OAuth 2.0, API Security, and Secure Coding</strong>.</li> 
-  <li>Exploring <strong>Docker, networking, and cybersecurity</strong>.</li> 
+
+<p>
+  I'm a <strong>Full-Stack Developer</strong> focused on building modern,
+  secure, and scalable web applications using <strong>.NET</strong> and the
+  <strong>MEAN Stack</strong>.
+</p>
+
+<p>
+  My core expertise is in <strong>ASP.NET Core backend development</strong>,
+  designing RESTful APIs, working with databases, and building real-time
+  features. I'm also developing my full-stack skills with
+  <strong>Angular, TypeScript, and the MEAN Stack</strong>.
+</p>
+
+<ul>
+  <li>Building RESTful APIs using <strong>ASP.NET Core Web API</strong>.</li>
+  <li>Developing real-time features with <strong>SignalR</strong>.</li>
+  <li>Working with <strong>SQL Server, T-SQL, EF Core, and ADO.NET</strong>.</li>
+  <li>Building full-stack applications using <strong>MongoDB, Express.js, Angular, and Node.js</strong>.</li>
+  <li>Developing responsive interfaces with <strong>HTML, CSS, JavaScript, TypeScript, Bootstrap, and Tailwind CSS</strong>.</li>
+  <li>Implementing authentication and authorization with <strong>JWT and refresh tokens</strong>.</li>
+  <li>Exploring <strong>Redis, Docker, networking, and secure coding practices</strong>.</li>
 </ul>
-<br>
+
+<p>
+  I enjoy solving problems, strengthening my understanding of data structures
+  and algorithms, and continuously improving my software engineering skills
+  through practical projects.
+</p>
+
 
 <!-- ========================= FRONTEND ========================= -->
 <h2>Front-End Development</h2>
