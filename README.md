@@ -1,6 +1,6 @@
 <!-- ========================= HERO ========================= -->
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=65" width="100%" alt="Hero Background" /> a
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=65" width="100%" alt="Hero Background" />
 </p> 
 
 <p align="center"> 
@@ -22,6 +22,10 @@
   <a href="https://github.com/Eng-Mohamed-Yaser?tab=followers">
     <img src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
+
+<a href="https://github.com/features/actions">
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD Automation"/>
+</a>
   <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -218,6 +222,18 @@
     <br>
     <strong>SQLite</strong>
   </td>
+    
+<td align="center" width="120">
+  <a href="https://www.postgresql.org/">
+    <img
+      src="https://cdn.simpleicons.org/postgresql/4169E1"
+      width="50"
+      height="50"
+      alt="PostgreSQL"
+    />
+  </a>
+  <br><strong>PostgreSQL</strong>
+</td>
   </tr>
 </table>
 <br>
@@ -258,6 +274,17 @@
       <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
+    <td align="center" width="110">
+  <a href="https://github.com/features/actions">
+    <img
+      src="https://cdn.simpleicons.org/githubactions/2088FF"
+      width="50"
+      height="50"
+      alt="GitHub Actions"
+    />
+  </a>
+  <br><strong>GitHub Actions</strong>
+</td>
   </tr> 
 </table>
 <br>
