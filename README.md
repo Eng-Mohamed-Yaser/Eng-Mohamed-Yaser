@@ -1,7 +1,9 @@
 <!-- ========================= HERO ========================= -->
+
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=65" width="100%" alt="Hero Background" />
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:2563EB&text=Mohamed%20Yasser&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20%7C%20.NET%20%26%20Node.js%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=65" width="100%" alt="Hero Background" />
+</p>
+
 
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Software+Engineer;Specializing+in+.NET+Backend;Full-Stack+Development;MEAN+Stack+Developer;Architecting+Secure+APIs;Real-Time+Data+Processing;High-Performance+Backend+Systems" alt="Typing SVG" /> 
