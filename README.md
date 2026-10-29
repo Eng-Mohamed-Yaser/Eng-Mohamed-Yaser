@@ -1,15 +1,7 @@
 <!-- ========================= HERO ========================= -->
-
-
-
-
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;color=0:020617,50:0F172A,100:2563EB&amp;text=Mohamed%20Yasser&amp;fontColor=ffffff&amp;fontSize=55&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%7C%20.NET%20and%20Node.js%20Backend%20%7C%20Full-Stack%20Developer&amp;descAlignY=65" width="100%" alt="Hero Background" />
 </p>
-
-
-
-
 
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Software+Engineer;Specializing+in+.NET+Backend;Full-Stack+Development;MEAN+Stack+Developer;Architecting+Secure+APIs;Real-Time+Data+Processing;High-Performance+Backend+Systems" alt="Typing SVG" /> 
@@ -155,6 +147,26 @@
       <br><strong>Express.js</strong>
     </td>
   </tr> 
+</table>
+<br>
+
+<!-- ========================= BACKGROUND PROCESS ========================= -->
+<h3 align="left">Background Processing</h3>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://learn.microsoft.com/en-us/dotnet/core/extensions/workers">
+        <img
+          src="https://cdn.simpleicons.org/dotnet/512BD4"
+          width="50"
+          height="50"
+          alt=".NET Worker Services"
+        />
+      </a>
+      <br><strong>Worker Services</strong>
+    </td>
+  </tr>
 </table>
 <br>
 
