@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eng-Mohamed-Yaser">
-    <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Yaser&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
-  </a>
+<a href="https://eng-mohamed-yaser.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://github.com/Eng-Mohamed-Yaser?tab=followers">
     <img src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
@@ -382,6 +382,9 @@
 </p>
 
 <p align="center">
+  <a href="https://eng-mohamed-yaser.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://github.com/Eng-Mohamed-Yaser">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
