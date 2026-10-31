@@ -1,11 +1,12 @@
 <!-- ========================= HERO ========================= -->
-<p align="center"> 
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;color=0:020617,50:0F172A,100:2563EB&amp;text=Mohamed%20Yasser&amp;fontColor=ffffff&amp;fontSize=55&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%7C%20.NET%20and%20Node.js%20Backend%20%7C%20Full-Stack%20Developer&amp;descAlignY=65" width="100%" alt="Hero Background" />
 </p>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Software+Engineer;Specializing+in+.NET+Backend;Full-Stack+Development;MEAN+Stack+Developer;Architecting+Secure+APIs;Real-Time+Data+Processing;High-Performance+Backend+Systems" alt="Typing SVG" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Software+Engineer;Specializing+in+.NET+Backend;Full-Stack+Development;MEAN+Stack+Developer;Architecting+Secure+APIs;Real-Time+Data+Processing;High-Performance+Backend+Systems" alt="Typing SVG" />
 </p>
+
 <br>
 
 <!-- ========================= PROFILE ========================= -->
@@ -22,53 +23,99 @@
   <a href="https://github.com/Eng-Mohamed-Yaser?tab=followers">
     <img src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
-
-<a href="https://github.com/features/actions">
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD Automation"/>
-</a>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD Automation"/>
+  </a>
   <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-
 <!-- ========================= ABOUT ========================= -->
 <h2>About Me</h2>
 
 <p>
-  I'm a <strong>Full-Stack Developer</strong> focused on building modern,
-  secure, and scalable web applications using <strong>.NET</strong> and the
-  <strong>MEAN Stack</strong>.
+  I'm a <strong>Full-Stack Developer</strong> interested in designing and building
+  modern, secure, and maintainable web applications using
+  <strong>.NET and the MEAN Stack</strong>.
 </p>
 
 <p>
-  My core expertise is in <strong>ASP.NET Core backend development</strong>,
-  designing RESTful APIs, working with databases, and building real-time
-  features. I'm also developing my full-stack skills with
-  <strong>Angular, TypeScript, and the MEAN Stack</strong>.
+  My primary focus is <strong>backend development with ASP.NET Core</strong>,
+  including RESTful API development, database integration, authentication,
+  authorization, and real-time communication. I also build full-stack
+  applications using <strong>Angular, TypeScript, and Node.js</strong>.
+</p>
+
+<p>
+  Beyond implementing features, I care about software design, code quality,
+  maintainability, and understanding the engineering principles behind
+  reliable applications.
 </p>
 
 <ul>
-  <li>Building RESTful APIs using <strong>ASP.NET Core Web API</strong>.</li>
-  <li>Developing real-time features with <strong>SignalR</strong>.</li>
+  <li>Developing RESTful APIs using <strong>ASP.NET Core Web API</strong>.</li>
+  <li>Building real-time applications with <strong>SignalR</strong>.</li>
   <li>Working with <strong>SQL Server, T-SQL, EF Core, and ADO.NET</strong>.</li>
   <li>Building full-stack applications using <strong>MongoDB, Express.js, Angular, and Node.js</strong>.</li>
-  <li>Developing responsive interfaces with <strong>HTML, CSS, JavaScript, TypeScript, Bootstrap, and Tailwind CSS</strong>.</li>
-  <li>Implementing authentication and authorization with <strong>JWT and refresh tokens</strong>.</li>
+  <li>Developing responsive interfaces using <strong>HTML, CSS, JavaScript, TypeScript, Bootstrap, and Tailwind CSS</strong>.</li>
+  <li>Implementing authentication and authorization using <strong>JWT and Refresh Tokens</strong>.</li>
   <li>Exploring <strong>Redis, Docker, networking, and secure coding practices</strong>.</li>
 </ul>
 
 <p>
-  I enjoy solving problems, strengthening my understanding of data structures
-  and algorithms, and continuously improving my software engineering skills
-  through practical projects.
+  I enjoy solving technical problems, studying data structures and algorithms,
+  and continuously improving my software engineering skills through practical
+  development.
 </p>
 
+<!-- ========================= SOFTWARE ENGINEERING ========================= -->
+<h2>Software Engineering Principles & Practices</h2>
+
+<p>
+  <i>Engineering practices and design principles that guide how I approach software development.</i>
+</p>
+
+<h3>Code Quality & Design Principles</h3>
+
+<ul>
+  <li><strong>Clean Code:</strong> Writing readable, understandable, and maintainable code.</li>
+  <li><strong>SOLID Principles:</strong> Applying object-oriented design principles to build flexible and maintainable software.</li>
+  <li><strong>Object-Oriented Programming (OOP):</strong> Encapsulation, inheritance, abstraction, and polymorphism.</li>
+  <li><strong>Separation of Concerns:</strong> Organizing responsibilities to reduce coupling and improve maintainability.</li>
+</ul>
+
+<h3>Software Design & Architecture</h3>
+
+<ul>
+  <li><strong>Design Patterns:</strong> Singleton, Factory, and Abstract Factory.</li>
+  <li><strong>Layered Architecture:</strong> Separating application responsibilities into logical layers.</li>
+  <li><strong>Modular Design:</strong> Building components with clear responsibilities and boundaries.</li>
+  <li><strong>Maintainability & Scalability:</strong> Considering extensibility and long-term code maintenance.</li>
+</ul>
+
+<h3>Backend Engineering & Security</h3>
+
+<ul>
+  <li><strong>RESTful API Design:</strong> Designing consistent APIs and resource-oriented endpoints.</li>
+  <li><strong>Authentication & Authorization:</strong> Working with JWT, refresh tokens, and access control.</li>
+  <li><strong>Real-Time Communication:</strong> Implementing event-driven communication with SignalR.</li>
+  <li><strong>Secure Coding:</strong> Applying security-aware development practices.</li>
+</ul>
+
+<h3>Problem Solving & Quality</h3>
+
+<ul>
+  <li><strong>Data Structures & Algorithms:</strong> Understanding core data structures and problem-solving techniques.</li>
+  <li><strong>Unit Testing:</strong> Writing tests to verify application behavior.</li>
+  <li><strong>Testability:</strong> Structuring code to support effective testing.</li>
+</ul>
 
 <!-- ========================= FRONTEND ========================= -->
 <h2>Front-End Development</h2>
-<p> <i>Modern frontend technologies for responsive and interactive applications.</i> </p>
-<table> 
+<p><i>Modern frontend technologies for responsive and interactive applications.</i></p>
+
+<table>
   <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
@@ -94,29 +141,27 @@
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" alt="Tailwind CSS" />
       <br><strong>Tailwind CSS</strong>
     </td>
-<td align="center" width="110">
-  <a href="https://react.dev/">
-    <img
-      src="https://cdn.simpleicons.org/react/61DAFB"
-      width="50"
-      height="50"
-      alt="React"
-    />
-  </a>
-  <br><strong>React</strong>
-</td>
+    <td align="center" width="110">
+      <a href="https://react.dev/">
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React" />
+      </a>
+      <br><strong>React</strong>
+    </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
       <br><strong>Angular</strong>
     </td>
-  </tr> 
+  </tr>
 </table>
+
 <br>
 
 <!-- ========================= BACKEND ========================= -->
 <h2>Back-End Development</h2>
-<p> <i>Building APIs, backend services, authentication systems, and real-time applications.</i> </p>
-<table> 
+
+<p><i>Building APIs, backend services, authentication systems, and real-time applications.</i></p>
+
+<table>
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#" />
@@ -146,38 +191,39 @@
       <img src="https://cdn.simpleicons.org/express/FFFFFF" width="50" height="50" alt="Express.js" />
       <br><strong>Express.js</strong>
     </td>
-  </tr> 
+  </tr>
 </table>
+
 <br>
 
-<!-- ========================= BACKGROUND PROCESS ========================= -->
-<h2 align="left">Background Processing</h2>
-<p> <i>Building background services</i> </p>
+<!-- ========================= BACKGROUND PROCESSING ========================= -->
+<h2>Background Processing</h2>
+
+<p><i>Developing background services and long-running application processes.</i></p>
 
 <table>
   <tr>
     <td align="center" width="120">
       <a href="https://learn.microsoft.com/en-us/dotnet/core/extensions/workers">
-        <img
-          src="https://cdn.simpleicons.org/dotnet/512BD4"
-          width="50"
-          height="50"
-          alt=".NET Worker Services"
-        />
+        <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="50" height="50" alt=".NET Worker Services" />
       </a>
       <br><strong>Worker Services</strong>
     </td>
   </tr>
 </table>
+
 <br>
 
 <!-- ========================= MEAN STACK ========================= -->
 <h2>MEAN Stack Development</h2>
-<p> <i>Full-stack JavaScript development with MongoDB, Express.js, Angular, and Node.js.</i> </p>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/MEAN%20STACK-Full--Stack%20Development-0F172A?style=for-the-badge" alt="MEAN Stack" /> 
+
+<p><i>Full-stack JavaScript development with MongoDB, Express.js, Angular, and Node.js.</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MEAN%20STACK-Full--Stack%20Development-0F172A?style=for-the-badge" alt="MEAN Stack" />
 </p>
-<table> 
+
+<table>
   <tr>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
@@ -199,14 +245,17 @@
       <br><strong>Node.js</strong>
       <br><sub>JavaScript Runtime</sub>
     </td>
-  </tr> 
+  </tr>
 </table>
+
 <br>
 
 <!-- ========================= DATABASE ========================= -->
 <h2>Database Design & Development</h2>
-<p> <i>Relational and NoSQL database development and data access technologies.</i> </p>
-<table> 
+
+<p><i>Relational and NoSQL database development and data access technologies.</i></p>
+
+<table>
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" />
@@ -216,15 +265,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
       <br><strong>MongoDB</strong>
     </td>
-<td align="center" width="110">
-    <img
-      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/entityframeworkcore/default.svg"
-      width="50"
-      height="50"
-      alt="Entity Framework Core"
-    />
-  <br><strong>EF Core</strong>
-</td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/entityframeworkcore/default.svg" width="50" height="50" alt="Entity Framework Core" />
+      <br><strong>EF Core</strong>
+    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" alt="ADO.NET" />
       <br><strong>ADO.NET</strong>
@@ -234,34 +278,24 @@
       <br><strong>T-SQL</strong>
     </td>
     <td align="center" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sqlite/default.svg"
-        width="50"
-        height="50"
-        alt="SQLite"
-      />
-    <br>
-    <strong>SQLite</strong>
-  </td>
-    
-<td align="center" width="120">
-  <a href="https://www.postgresql.org/">
-    <img
-      src="https://cdn.simpleicons.org/postgresql/4169E1"
-      width="50"
-      height="50"
-      alt="PostgreSQL"
-    />
-  </a>
-  <br><strong>PostgreSQL</strong>
-</td>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sqlite/default.svg" width="50" height="50" alt="SQLite" />
+      <br><strong>SQLite</strong>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.postgresql.org/">
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" height="50" alt="PostgreSQL" />
+      </a>
+      <br><strong>PostgreSQL</strong>
+    </td>
   </tr>
 </table>
+
 <br>
 
 <!-- ========================= TOOLS ========================= -->
 <h2>Tools & DevOps</h2>
-<table> 
+
+<table>
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
@@ -296,98 +330,107 @@
       <br><strong>Linux</strong>
     </td>
     <td align="center" width="110">
-  <a href="https://github.com/features/actions">
-    <img
-      src="https://cdn.simpleicons.org/githubactions/2088FF"
-      width="50"
-      height="50"
-      alt="GitHub Actions"
-    />
-  </a>
-  <br><strong>GitHub Actions</strong>
-</td>
-  </tr> 
-</table>
-<br>
-<!--========================== TESTING ========================== -->
-<h2>Testing & Quality</h2>
-
-<p>
-  <i>Writing reliable, maintainable, and testable software.</i>
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img
-        src="https://api.nuget.org/v3-flatcontainer/nunit/4.0.0/icon"
-        width="50"
-        height="50"
-        alt="NUnit"
-      />
-      <br><strong>NUnit</strong>
-    </td>
-    <td align="center" width="130">
-      <img
-        src="https://cdn.simpleicons.org/dotnet"
-        width="50"
-        height="50"
-        alt=".NET"
-      />
-      <br>
-      <strong>Unit Testing</strong>
+      <a href="https://github.com/features/actions">
+        <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="50" height="50" alt="GitHub Actions" />
+      </a>
+      <br><strong>GitHub Actions</strong>
     </td>
   </tr>
 </table>
 
-
-<!-- ========================= SECURITY ========================= -->
-<h2>Security & Real-Time</h2>
-<table> 
-  <tr>
-    <td align="center" width="130">
-      <img src="https://jwt.io/img/pic_logo.svg" width="50" height="50" alt="JWT" />
-      <br><strong>JWT</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="50" height="50" alt="SignalR" />
-      <br><strong>SignalR</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="50" height="50" alt="Real-Time Communication" />
-      <br><strong>Real-Time</strong>
-    </td>
-  </tr> 
-</table>
 <br>
+
+<!-- ========================= TESTING ========================= -->
+<h2>Testing & Quality Assurance</h2>
+
+<p><i>Writing reliable, maintainable, and testable software.</i></p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://api.nuget.org/v3-flatcontainer/nunit/4.0.0/icon" width="50" height="50" alt="NUnit" />
+      <br><strong>NUnit</strong>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/dotnet" width="50" height="50" alt=".NET" />
+      <br><strong>Unit Testing</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- ========================= PROJECTS ========================= -->
+<!-- Add selected projects here with verified repository links and concise descriptions. -->
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 <h2 align="center">GitHub Analytics</h2>
-<p align="center"> 
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Yaser&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mohamed-Yaser&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Eng-Mohamed-Yaser&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Eng-Mohamed-Yaser&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
-<h2 align="center">Contribution Activity</h2>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/Eng-Mohamed-Yaser/Eng-Mohamed-Yaser/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> 
+
+<!-- ========================= LET'S CONNECT ========================= -->
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <i>Interested in collaboration, software engineering, or exchanging ideas? Feel free to connect.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Eng-Mohamed-Yaser">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="eng.mo7amed.yaser@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <!-- ========================= FOOTER ========================= -->
+
 <br>
-<p align="center"> 
-  <strong>Building secure, scalable, and reliable web applications.</strong> 
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=2"
+    width="100%"
+    alt="Footer Divider"
+  />
 </p>
-<p align="center"> 
-  <a href="https://github.com/Eng-Mohamed-Yaser"> 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
+
+<h2 align="center">Mohamed Yasser</h2>
+
+<p align="center">
+  <strong>Software Developer | .NET and Node.js | Full-Stack Development</strong>
+</p>
+
+<p align="center">
+  Building reliable software through thoughtful engineering,
+  clean code, and continuous learning.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Eng-Mohamed-Yaser">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
-  </a> 
+  <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
+  </a>
 </p>
-<p align="center"> <i>“Code. Learn. Build. Improve.”</i> </p>
+
+<p align="center">
+  <sub>Code. Learn. Build. Improve.</sub>
+</p>
+
+<p align="center">
+  <sub>© 2026 Mohamed Yasser. All rights reserved.</sub>
+</p>
+
+<br>
