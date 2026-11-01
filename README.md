@@ -361,6 +361,19 @@
 <!-- ========================= PROJECTS ========================= -->
 <!-- Add selected projects here with verified repository links and concise descriptions. -->
 
+<!-- ========================= COMMUNITY & COLLABORATION ========================= -->
+<h2 align="center">Community & Collaboration</h2>
+
+<p align="center">
+  <a href="https://headlesscollective.github.io/headlesscollective/" target="_blank">
+    <img src="https://img.shields.io/badge/Headless%20Collective-Visit%20Website-16A34A?style=flat&logo=googlechrome&logoColor=white" alt="Headless Collective" />
+  </a>
+</p>
+
+<p align="center">
+  Building ideas, engineering solutions, and creating together.
+</p>
+
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 <h2 align="center">GitHub Analytics</h2>
 
