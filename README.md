@@ -20,11 +20,11 @@
 <a href="https://eng-mohamed-yaser.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
+  <a href="https://github.com/Eng-Mohamed-Yaser">
+  <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Yaser&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
+</a>
   <a href="https://github.com/Eng-Mohamed-Yaser?tab=followers">
     <img src="https://img.shields.io/github/followers/Eng-Mohamed-Yaser?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/features/actions">
-    <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD Automation"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-yasser-1160b7308">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?logo=linkedin&logoColor=white" alt="LinkedIn" />
