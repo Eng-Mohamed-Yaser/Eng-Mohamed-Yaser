@@ -335,6 +335,18 @@
       </a>
       <br><strong>GitHub Actions</strong>
     </td>
+    <td align="center" width="120">
+      <a href="https://kubernetes.io/">
+        <img
+          src="https://cdn.simpleicons.org/kubernetes/326CE5"
+          width="50"
+          height="50"
+          alt="Kubernetes"
+        />
+      </a>
+      <br><strong>Kubernetes</strong>
+      <br><sub>Basics</sub>
+    </td>
   </tr>
 </table>
 
