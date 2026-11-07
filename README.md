@@ -352,6 +352,27 @@
 
 <br>
 
+<!-- ========================= APPLICATION SECURITY ========================= -->
+<h3 align="left">Application Security</h3>
+<p><i>Building secure applications through vulnerability awareness, secure coding, and security best practices.</i></p>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://owasp.org/www-project-top-ten/">
+        <img
+          src="https://cdn.simpleicons.org/owasp/2563EB"
+          width="50"
+          height="50"
+          alt="OWASP Top 10"
+        />
+      </a>
+      <br><strong>OWASP Top 10</strong>
+    </td>
+  </tr>
+</table>
+<BR/>
+
 <!-- ========================= TESTING ========================= -->
 <h2>Testing & Quality Assurance</h2>
 
