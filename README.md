@@ -32,83 +32,120 @@
 </p>
 
 <!-- ========================= ABOUT ========================= -->
-<h2>About Me</h2>
+## About Me
 
 <p>
-  I'm a <strong>Full-Stack Developer</strong> interested in designing and building
-  modern, secure, and maintainable web applications using
+  I'm a <strong>Full-Stack Developer</strong> focused on designing and building
+  modern, secure, scalable, and maintainable web applications using
   <strong>.NET and the MEAN Stack</strong>.
 </p>
 
 <p>
-  My primary focus is <strong>backend development with ASP.NET Core</strong>,
-  including RESTful API development, database integration, authentication,
-  authorization, and real-time communication. I also build full-stack
-  applications using <strong>Angular, TypeScript, and Node.js</strong>.
+  My primary engineering focus is <strong>backend development with ASP.NET Core</strong>,
+  where I work on RESTful APIs, database integration, authentication and authorization,
+  real-time communication, and application security. I also develop full-stack
+  applications using <strong>Angular, TypeScript, Node.js, and Express.js</strong>.
 </p>
 
 <p>
-  Beyond implementing features, I care about software design, code quality,
-  maintainability, and understanding the engineering principles behind
-  reliable applications.
+  I'm interested in more than just implementing features. I focus on understanding
+  software architecture, applying engineering principles, writing clean and
+  testable code, and building applications that are reliable and maintainable
+  over time.
 </p>
 
+**Areas I Work With:**
+
 <ul>
-  <li>Developing RESTful APIs using <strong>ASP.NET Core Web API</strong>.</li>
-  <li>Building real-time applications with <strong>SignalR</strong>.</li>
-  <li>Working with <strong>SQL Server, T-SQL, EF Core, and ADO.NET</strong>.</li>
+  <li>Developing RESTful APIs using <strong>ASP.NET Core Web API</strong> and designing resource-oriented endpoints.</li>
+  <li>Building real-time applications and event-driven communication using <strong>SignalR</strong>.</li>
+  <li>Implementing authentication and authorization using <strong>JWT, Refresh Tokens, and ASP.NET Core Identity</strong>.</li>
+  <li>Working with <strong>SQL Server, PostgreSQL, MongoDB, T-SQL, EF Core, LINQ, and ADO.NET</strong>.</li>
   <li>Building full-stack applications using <strong>MongoDB, Express.js, Angular, and Node.js</strong>.</li>
   <li>Developing responsive interfaces using <strong>HTML, CSS, JavaScript, TypeScript, Bootstrap, and Tailwind CSS</strong>.</li>
-  <li>Implementing authentication and authorization using <strong>JWT and Refresh Tokens</strong>.</li>
-  <li>Exploring <strong>Redis, Docker, networking, and secure coding practices</strong>.</li>
+  <li>Implementing backend infrastructure features such as <strong>API Versioning, Rate Limiting, and Background Services</strong>.</li>
+  <li>Applying application security practices and learning about vulnerabilities through the <strong>OWASP Top 10</strong>.</li>
+  <li>Exploring <strong>Docker, Redis, containerization, and distributed application concepts</strong>.</li>
 </ul>
 
 <p>
-  I enjoy solving technical problems, studying data structures and algorithms,
-  and continuously improving my software engineering skills through practical
-  development.
+  I continuously improve my software engineering skills through practical projects,
+  technical problem-solving, studying data structures and algorithms, and exploring
+  software design and architecture.
 </p>
 
-<!-- ========================= SOFTWARE ENGINEERING ========================= -->
+---
+
 <h2>Software Engineering Principles & Practices</h2>
 
 <p>
-  <i>Engineering practices and design principles that guide how I approach software development.</i>
+  <i>Engineering principles, architectural concepts, and development practices that guide how I design and build software.</i>
 </p>
 
 <h3>Code Quality & Design Principles</h3>
 
 <ul>
-  <li><strong>Clean Code:</strong> Writing readable, understandable, and maintainable code.</li>
+  <li><strong>Clean Code:</strong> Writing readable, expressive, and maintainable code with clear responsibilities.</li>
   <li><strong>SOLID Principles:</strong> Applying object-oriented design principles to build flexible and maintainable software.</li>
-  <li><strong>Object-Oriented Programming (OOP):</strong> Encapsulation, inheritance, abstraction, and polymorphism.</li>
-  <li><strong>Separation of Concerns:</strong> Organizing responsibilities to reduce coupling and improve maintainability.</li>
+  <li><strong>Object-Oriented Programming (OOP):</strong> Understanding encapsulation, abstraction, inheritance, and polymorphism.</li>
+  <li><strong>Separation of Concerns:</strong> Organizing application responsibilities to minimize coupling and improve cohesion.</li>
+  <li><strong>DRY & KISS:</strong> Reducing unnecessary duplication and avoiding unnecessary complexity.</li>
 </ul>
 
 <h3>Software Design & Architecture</h3>
 
 <ul>
-  <li><strong>Design Patterns:</strong> Singleton, Factory, and Abstract Factory.</li>
-  <li><strong>Layered Architecture:</strong> Separating application responsibilities into logical layers.</li>
-  <li><strong>Modular Design:</strong> Building components with clear responsibilities and boundaries.</li>
-  <li><strong>Maintainability & Scalability:</strong> Considering extensibility and long-term code maintenance.</li>
+  <li><strong>Design Patterns:</strong> Applying patterns such as Singleton, Factory, and Abstract Factory where appropriate.</li>
+  <li><strong>Layered Architecture:</strong> Separating presentation, business logic, and data access responsibilities.</li>
+  <li><strong>Modular Design:</strong> Organizing software into components with well-defined responsibilities and boundaries.</li>
+  <li><strong>Database Design:</strong> Understanding relational modeling, normalization, relationships, and data integrity.</li>
+  <li><strong>Scalability & Maintainability:</strong> Designing systems with extensibility, separation of responsibilities, and long-term evolution in mind.</li>
 </ul>
 
-<h3>Backend Engineering & Security</h3>
+<h3>Backend Engineering & API Development</h3>
 
 <ul>
-  <li><strong>RESTful API Design:</strong> Designing consistent APIs and resource-oriented endpoints.</li>
-  <li><strong>Authentication & Authorization:</strong> Working with JWT, refresh tokens, and access control.</li>
-  <li><strong>Real-Time Communication:</strong> Implementing event-driven communication with SignalR.</li>
-  <li><strong>Secure Coding:</strong> Applying security-aware development practices.</li>
+  <li><strong>RESTful API Design:</strong> Building resource-oriented APIs with consistent endpoints and HTTP semantics.</li>
+  <li><strong>Authentication & Authorization:</strong> Implementing JWT authentication, refresh token workflows, and access control.</li>
+  <li><strong>API Security:</strong> Applying security practices, input validation, and OWASP Top 10 awareness.</li>
+  <li><strong>Real-Time Communication:</strong> Implementing real-time features using SignalR and WebSockets concepts.</li>
+  <li><strong>API Reliability:</strong> Working with API Versioning, Rate Limiting, and structured error handling.</li>
+  <li><strong>Background Processing:</strong> Understanding Worker Services and asynchronous background operations.</li>
 </ul>
 
-<h3>Problem Solving & Quality</h3>
+<h3>Application Security</h3>
 
 <ul>
-  <li><strong>Data Structures & Algorithms:</strong> Understanding core data structures and problem-solving techniques.</li>
-  <li><strong>Unit Testing:</strong> Writing tests to verify application behavior.</li>
-  <li><strong>Testability:</strong> Structuring code to support effective testing.</li>
+  <li><strong>OWASP Top 10:</strong> Understanding common web application security risks and their mitigations.</li>
+  <li><strong>Secure Authentication:</strong> Understanding token-based authentication and secure session management.</li>
+  <li><strong>Input Validation:</strong> Applying validation and defensive programming practices.</li>
+  <li><strong>Security-Aware Development:</strong> Considering security throughout the software development lifecycle.</li>
+</ul>
+
+<h3>Testing & Software Quality</h3>
+
+<ul>
+  <li><strong>Unit Testing:</strong> Writing tests with NUnit to verify application behavior.</li>
+  <li><strong>Testability:</strong> Structuring application code to support isolation and effective testing.</li>
+  <li><strong>Code Reliability:</strong> Identifying edge cases, validating assumptions, and reducing regression risks.</li>
+</ul>
+
+<h3>Infrastructure & Development Practices</h3>
+
+<ul>
+  <li><strong>Version Control:</strong> Managing source code and collaboration workflows using Git and GitHub.</li>
+  <li><strong>CI/CD:</strong> Exploring automated build and deployment workflows using GitHub Actions.</li>
+  <li><strong>Containerization:</strong> Learning Docker, container isolation, and Docker Compose.</li>
+  <li><strong>Caching:</strong> Exploring Redis for caching and improving application performance.</li>
+  <li><strong>Distributed Systems:</strong> Studying asynchronous processing, service communication, and containerized application architectures.</li>
+</ul>
+
+<h3>Problem Solving & Computer Science Fundamentals</h3>
+
+<ul>
+  <li><strong>Data Structures & Algorithms:</strong> Understanding fundamental data structures, algorithms, and complexity analysis.</li>
+  <li><strong>Problem Solving:</strong> Breaking down technical problems into manageable and structured solutions.</li>
+  <li><strong>Computer Science Fundamentals:</strong> Continuously strengthening knowledge of databases, networking, and operating systems.</li>
 </ul>
 
 <!-- ========================= FRONTEND ========================= -->
@@ -251,9 +288,11 @@
 <br>
 
 <!-- ========================= DATABASE ========================= -->
-<h2>Database Design & Development</h2>
+<h2>Database Design, Development & Caching</h2>
 
-<p><i>Relational and NoSQL database development and data access technologies.</i></p>
+<p>
+  <i>Relational and NoSQL database design, development, and data access, alongside caching technologies.</i> 
+</p>
 
 <table>
   <tr>
@@ -287,6 +326,14 @@
       </a>
       <br><strong>PostgreSQL</strong>
     </td>
+    <td align="center" width="120">
+      <a href="https://redis.io/">
+        <img src="https://cdn.simpleicons.org/redis/FF4438" width="50" height="50" alt="Redis" />
+    </a>
+    <br>
+    <strong>Redis</strong>
+    <br><sub>Basics</sub>
+</td>
   </tr>
 </table>
 
@@ -337,12 +384,7 @@
     </td>
     <td align="center" width="120">
       <a href="https://kubernetes.io/">
-        <img
-          src="https://cdn.simpleicons.org/kubernetes/326CE5"
-          width="50"
-          height="50"
-          alt="Kubernetes"
-        />
+        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="50" height="50" alt="Kubernetes" />
       </a>
       <br><strong>Kubernetes</strong>
       <br><sub>Basics</sub>
