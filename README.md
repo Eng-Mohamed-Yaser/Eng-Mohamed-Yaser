@@ -148,6 +148,71 @@
   <li><strong>Computer Science Fundamentals:</strong> Continuously strengthening knowledge of databases, networking, and operating systems.</li>
 </ul>
 
+
+<!-- ========================= PROGRAMMING LANGUAGES ========================= -->
+<h3 align="left">Programming Languages</h3>
+<p><i>Core programming languages used to build software applications and solve computational problems.</i></p>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/C_Language_Logo.svg"
+         width="50" height="50" alt="C"
+         style="object-fit:contain;" />
+  </a>
+  <br><strong>C</strong>
+</td>
+
+<td align="center" width="110">
+  <a href="https://isocpp.org/">
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"
+         width="50" height="50" alt="C++"
+         style="object-fit:contain;" />
+  </a>
+  <br><strong>C++</strong>
+</td>
+
+<td align="center" width="110">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+         width="50" height="50" alt="C#"
+         style="object-fit:contain;" />
+  </a>
+  <br><strong>C#</strong>
+</td>
+
+<td align="center" width="110">
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         width="50" height="50" alt="Python Logo" 
+         style="object-fit:contain;" />
+  </a>
+  <br><strong>Python</strong>
+</td>
+
+<td align="center" width="110">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"
+         width="50" height="50" alt="JavaScript"
+         style="object-fit:contain;" />
+  </a>
+  <br><strong>JavaScript</strong>
+</td>
+
+<td align="center" width="110">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/v2/packages/typescriptlang-org/static/branding/ts-logo-512.svg"
+         width="50" height="50" alt="TypeScript"
+         style="object-fit:contain;" />
+  </a>
+  <br><strong>TypeScript</strong>
+</td>
+  </tr>
+</table>
+<br/>
+
+
 <!-- ========================= FRONTEND ========================= -->
 <h2>Front-End Development</h2>
 <p><i>Modern frontend technologies for responsive and interactive applications.</i></p>
