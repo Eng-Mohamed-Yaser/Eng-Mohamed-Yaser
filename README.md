@@ -123,7 +123,6 @@
 </td>
   </tr>
 </table>
-<br/>
 
 ---
 
@@ -197,61 +196,68 @@
 
 <!-- ========================= FULL-STACK ECOSYSTEMS ========================= -->
 
+<!-- ========================= FULL-STACK ECOSYSTEMS ========================= -->
 
 <h2 align="center">Full-Stack Development Ecosystems</h2>
 
+<p align="center">
+  <i>Two JavaScript ecosystems, one shared foundation.</i>
+</p>
+
 <!-- Frontend Alternatives -->
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/FRONTEND%20ALTERNATIVES-0F172A?style=for-the-badge"
-    alt="Frontend Alternatives"
-  />
+  <img src="https://img.shields.io/badge/FRONTEND%20ALTERNATIVES-2563EB?style=flat-square&labelColor=0F172A" alt="Frontend Alternatives" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://img.shields.io/badge/MEAN%20STACK-0F172A?style=for-the-badge&amp;logo=angular&amp;logoColor=DD0031"
-        height="55"
+        src="https://img.shields.io/badge/MEAN%20STACK-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=1E293B"
+        height="50"
         alt="MEAN Stack"
       />
       <br/><br/>
       <img
-        src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
+        width="52" height="52"
         alt="Angular"
       />
+      <br/>
+      <strong>Angular</strong>
+      <br/>
     </td>
     <td align="center" width="50%">
       <img
-        src="https://img.shields.io/badge/MERN%20STACK-0F172A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"
-        height="55"
+        src="https://img.shields.io/badge/MERN%20STACK-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E293B"
+        height="50"
         alt="MERN Stack"
       />
       <br/><br/>
       <img
-        src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="52" height="52"
         alt="React"
       />
+      <br/>
+      <strong>React</strong>
+      <br/>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <!-- Shared Technologies -->
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/SHARED%20TECHNOLOGIES-0F172A?style=for-the-badge"
-    alt="Shared Technologies"
-  />
+  <img src="https://img.shields.io/badge/SHARED%20TECHNOLOGIES-2563EB?style=flat-square&labelColor=0F172A" alt="Shared Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&amp;logo=express&amp;logoColor=000000" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-F5F5F5?style=flat-square&logo=express&logoColor=0F172A" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
-
-
 
 ---
 
@@ -289,6 +295,7 @@
   <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/NoSQL-1E293B?style=flat-square" alt="NoSQL" />
   <img src="https://img.shields.io/badge/Query%20Optimization-2563EB?style=flat-square" alt="Query Optimization" />
+  <img src="https://img.shields.io/badge/T--SQL-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ADO.NET" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/LINQ-0F172A?style=flat-square" alt="LINQ" />
@@ -346,7 +353,7 @@
       <br><strong>Linux</strong>
     </td>
    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50" height="50" alt="PowerShell" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
       <br><strong>Terminal</strong>
     </td>
       <td align="center" width="110">
@@ -357,7 +364,7 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-0F172A?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Terminal-0F172A?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square" alt="CI/CD" />
 </p>
 
@@ -456,7 +463,7 @@
 <h2 align="center">Mohamed Yasser</h2>
 
 <p align="center">
-  <strong>Software Developer | .NET and Node.js | Full-Stack Development</strong>
+  <strong>Software Engineer | .NET and Node.js | Full-Stack Developer</strong>
 </p>
 
 <p align="center">
